@@ -2,7 +2,12 @@
 
 Boilerplate code for JavaScript project (update: 21.09.24)
 
-## contains
+## How to Start
+
+- download or clone this project
+- run `npm install`
+
+## Contains
 
 ### webpack.config.js
 
