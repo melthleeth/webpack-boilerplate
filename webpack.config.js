@@ -1,12 +1,3 @@
-# webpack-boilerplate
-
-Boilerplate code for JavaScript project (update: 21.09.24)
-
-## contains
-
-### webpack.config.js
-
-```javascript
 const path = require("path");
 
 module.exports = {
@@ -35,13 +26,3 @@ module.exports = {
     ],
   },
 };
-```
-
-### package.json
-
-```javascript
- "scripts": {
-    "build": "webpack --mode production",
-    "serve": "webpack-dev-server --mode development"
-  },
-```
